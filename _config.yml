@@ -11,3 +11,62 @@ kramdown:
 title: Blogging Like a Hacker
 plugins:
   - jekyll-default-layout
+theme: jekyll-theme-cayman
+gems: []
+plugins:
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-sass-converter
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-sass-converter
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-sass-converter
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-sass-converter
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-sass-converter
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-mentions
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-sass-converter
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
