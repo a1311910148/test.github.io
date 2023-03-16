@@ -9,5 +9,10 @@
     "echart": "0.1.3",
     "flv": "0.0.1",
     "ws": "8.13.0"
+  },
+  "devDependencies": {
+    "bable": "1.0.1",
+    "vite": "4.2.0-beta.2",
+    "typescript": "5.1.0-dev.20230315"
   }
 }
