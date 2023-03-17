@@ -1,3 +1,2 @@
-const fun = (a: string) => {
-  console.log(a);
-};
+const fs = require("fs");
+const a = 1;

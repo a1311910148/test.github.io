@@ -1,4 +1,4 @@
-var fun = function (a) {
-  console.log(a);
-};
-document.querySelector("body");
+"use strict";
+const fs = require("fs");
+fs.readFileSync("");
+const a = 1;
