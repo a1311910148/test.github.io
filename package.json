@@ -4,7 +4,9 @@
   "description": "浏览器环境下得模块化",
   "main": "main.js",
   "scripts": {
-    "build": "browserify main.js -o ./dist/bundle.js && node ./server/copy.js"
+    "build": "browserify main.js -o ./dist/bundle.js && node ./server/copy.js",
+    "build:release": "npm run build --mode release",
+    "build:dev": "npm run build --mode dev"
   },
   "author": "",
   "license": "ISC",
