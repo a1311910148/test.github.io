@@ -6,6 +6,7 @@ let package3 = require('./src/modules/module3')
 
 console.log(package2, package3)
 package1.age = 33
+alert("3-18")
 },{"./src/modules/module1":2,"./src/modules/module2":3,"./src/modules/module3":4}],2:[function(require,module,exports){
 let name = '王磊'
 let age = '12'
