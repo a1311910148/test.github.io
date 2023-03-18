@@ -5,3 +5,4 @@ let package3 = require('./src/modules/module3')
 
 console.log(package2, package3)
 package1.age = 33
+alert("3-18")
